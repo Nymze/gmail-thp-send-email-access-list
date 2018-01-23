@@ -5,7 +5,7 @@ Le programme marche avec 3 prog:
 # 1 - scrap_mairies.rb : 
   Scrap les emails sur le site de la mairie du Val d'oise et les encapsule dans un Hash
 
-# 2 - drive.rv : 
+# 2 - drive.rb : 
 
 Note : penser à remplacer le "config.json" dans votre folder + key google spreadsheet correspondante
 

@@ -1,4 +1,4 @@
-# gmail_API
+# gmail
 
 Le programme marche avec 3 prog:
 

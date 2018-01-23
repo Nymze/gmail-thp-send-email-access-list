@@ -8,7 +8,7 @@
 
 (pour tester le programme gmail.rb vous pouvez utiliser vos logs + votre spreadsheet et config.json)
 
-=== OU == 
+=== OU ===
 
 1 - placer le fichier gmail.rb dans un dossier lancer gmail.rb premiere fois : entrez vos credentials
 2 - relancer gmail.rb

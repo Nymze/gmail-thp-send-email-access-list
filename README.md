@@ -8,6 +8,17 @@
 
 (pour tester le programme gmail.rb vous pouvez utiliser vos logs + votre spreadsheet et config.json)
 
+=== OU == 
+
+1 - placer le fichier gmail.rb dans un dossier lancer gmail.rb premiere fois : entrez vos credentials
+2 - relancer gmail.rb
+
+vous devez avoir une google spreadsheet valide de type : 
+
+https://docs.google.com/spreadsheets/d/1f_aDUwBM57EnMAoiqRpZifR2dcLJzLHaBF49ap5WuHY/edit#gid=0
+
+
+
 # Le programme marche avec 3 prog:
 
 # 1 - scrap_mairies.rb : 

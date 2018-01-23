@@ -1,6 +1,14 @@
 # gmail
 
-Le programme marche avec 3 prog:
+# etape pour lancer le prog : 
+
+1 - remplacer le "config.json" dans votre folder
+2 - Remplacer la key (pour la spreadsheet) 
+3 - Entrez vos logs dans le fichier gmail.rb " Gmail.connect("", "")" (Ligne 13)
+
+(pour tester le programme gmail.rb vous pouvez utiliser vos logs + votre spreadsheet et config.json)
+
+# Le programme marche avec 3 prog:
 
 # 1 - scrap_mairies.rb : 
   Scrap les emails sur le site de la mairie du Val d'oise et les encapsule dans un Hash

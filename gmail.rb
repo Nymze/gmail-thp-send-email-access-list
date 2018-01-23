@@ -8,7 +8,7 @@ require 'pry'
 #Create a variable worksheet key with the key to access the google spreadsheet (on the related google drive)
 # $mail connects to the allowed Gmail Account
 
-worksheet_key = "1f_aDUwBM57EnMAoiqRpZifR2dcLJzLHaBF49ap5WuHY" # Replace this key with the key of your spreadsheet - don't forget to put your config.json file in the same folder
+worksheet_key = "your key here" # Replace this key with the key of your spreadsheet - don't forget to put your config.json file in the same folder
 
 $gmail = Gmail.connect("", "") # put your logs here
 
